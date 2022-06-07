@@ -1,6 +1,6 @@
 # opencv-face-recognition
-Python OpenCV kütüphanesi ile geliştirilmiş yüz tarama yazılımı.
-app.py dosyasını yürüttüğünüzde "Kamera" adında bir frame gelecek. Ve Cascasde'den aldığı koordinatlarla yüzü tanımlayıp yeşil kare içine alacak.
+Face recognition software that developed with Python OpenCV.
+When you run app.py file, a frame comes named "Camera". And code gets Cascade coordinates then recognize your face and draws a rectangle around your face.
 
-Gereksinimler:
+Requirements:
 Python 3.4+, (pip install opencv-python)
